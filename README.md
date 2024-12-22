@@ -43,4 +43,4 @@ This repository contains data analysis findings for **Walmart** based on various
 
 ## Conclusion
 
-These findings offer valuable insights into business operations for both **Walmart** demonstrating how data analysis can enhance decision-making, optimize operations, and improve customer satisfaction. These insights are based on hypothetical industry trends and may vary in different business contexts.
+These findings provide valuable insights into Walmart's business operations, enhancing decision-making, optimizing processes, and improving customer satisfaction. They are based on industry trends and may differ in various business contexts.
